@@ -24,6 +24,14 @@ This package can be installed with or without a virtual environment.
     This is an entry point, let's call our custom API class
     This is a custom api
 
+Docker
+------
+
+You can optionally use Docker to build and test this code. The Docker code is
+meant to serve as an example of how to use Docker for python development
+allowing for live code edits on the host machine taking immediate effect on the
+docker container without rebuilding the image.
+
 Test
 ----
 
